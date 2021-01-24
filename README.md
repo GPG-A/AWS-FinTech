@@ -19,10 +19,13 @@ Financial Technology
 
 [天天基金](http://fund.eastmoney.com/data/xinfund.html)
 
+[深交所基金](http://www.szse.cn/market/product/list/all/index.html)
+
 [Quantaxis](https://github.com/quantaxis/quantaxis)
 
 [ZVT是对fooltrader重新思考后编写的量化项目](https://github.com/zvtvz/zvt)
 
+[界面很美观，数据设计可参考](https://github.com/minicloudsky/eastmoney)
 ---
 
 ## 项目概述：旨为搭建一个基金交易平台，构建数据资产、构建交易模型模型，预测未来涨幅情况。(数据爬取-清洗存储-分析回测-可视化-交易复盘)
