@@ -11,7 +11,9 @@ Financial Technology
    ```
 
 ### 参考资料
-[Scrap_Hello](https://www.pythonf.cn/read/99261)
+[Scrap_Hello_1](https://www.pythonf.cn/read/99261)
+
+[Scrap_Hello_2](https://www.cnblogs.com/tangjian219/p/12048399.html)
 
 [XPath的使用](https://zhuanlan.zhihu.com/p/29436838)
 
@@ -46,5 +48,10 @@ Financial Technology
 
 ### 基金投资模型库
 交易策略
+
+
+### 以基金公司为核心构建知识图谱
+
+### 以行业为中心构建知识图谱
 
 
